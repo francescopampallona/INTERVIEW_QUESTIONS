@@ -1,5 +1,8 @@
 # JAVA
 ## INTRODUZIONE
+### Cos'è Java?
+### Perchè Java è indipentente dalla piattaforma?
+### Differenza tra JDK, JVM e JRE
 ## 1.CLASSI OGGETTI E METODI
 ## 2.EREDITARIETA'
 ## 3.POLIMORFISMO

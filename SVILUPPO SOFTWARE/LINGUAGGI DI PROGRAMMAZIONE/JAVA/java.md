@@ -1,4 +1,5 @@
 # JAVA
+## INTRODUZIONE
 ## 1.CLASSI OGGETTI E METODI
 ## 2.EREDITARIETA'
 ## 3.POLIMORFISMO
@@ -8,3 +9,9 @@
 ## 7.COLLECTION FRAMEWORK
 ## 8.MULTITHREADING CONCURRENCY
 ## 9.PROGRAMMAZIONE FUNZIONALE
+## 10.JDBC
+## VERSIONI DI JAVA
+## BIBLIOGRAFIA
+<a href="https://www.javatpoint.com/java-tutorial">JAVATPOINT</a>
+<a href="https://www.interviewbit.com/java-interview-questions/">INTERVIEWBIT</a>
+

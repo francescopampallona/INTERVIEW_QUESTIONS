@@ -16,5 +16,4 @@
 ## VERSIONI DI JAVA
 ## BIBLIOGRAFIA
 <a href="https://www.javatpoint.com/java-tutorial">JAVATPOINT</a>
-<a href="https://www.interviewbit.com/java-interview-questions/">INTERVIEWBIT</a>
 

@@ -4,6 +4,9 @@
 ### Perchè Java è indipentente dalla piattaforma?
 ### Differenza tra JDK, JVM e JRE
 ## 1.CLASSI OGGETTI E METODI
+### Cos'è la garbage collection?
+### Cos'è l'information hiding?
+### A cosa serve il metodo finalize()?
 ## 2.EREDITARIETA'
 ## 3.POLIMORFISMO
 ## 4.PACKAGE, CLASSI ASTRATTE E INTERFACCE
@@ -14,6 +17,4 @@
 ## 9.PROGRAMMAZIONE FUNZIONALE
 ## 10.JDBC
 ## VERSIONI DI JAVA
-## BIBLIOGRAFIA
-<a href="https://www.javatpoint.com/java-tutorial">JAVATPOINT</a>
 

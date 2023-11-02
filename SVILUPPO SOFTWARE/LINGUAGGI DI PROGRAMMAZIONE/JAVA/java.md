@@ -5,16 +5,22 @@
 ### Differenza tra JDK, JVM e JRE
 ## 1.CLASSI OGGETTI E METODI
 ### Cos'è la garbage collection?
-### Cos'è l'information hiding?
 ### A cosa serve il metodo finalize()?
+### Cosa sono l'information hiding e l'incapsulamento?
+### Differenza tra variabile di tipo primitivo(value type) e variabile di tipo classe(reference type)?
+### Il metodo equals per il confronto degli oggetti
+### Variabili statiche e metodi statici
+### Cos'è una classe wrapper? Cosa sono il boxing e l'unboxing?
+### Cos'è l'overloading?
 ## 2.EREDITARIETA'
 ## 3.POLIMORFISMO
-## 4.PACKAGE, CLASSI ASTRATTE E INTERFACCE
-## 5.ECCEZIONI
-## 6.GENERIC
-## 7.COLLECTION FRAMEWORK
-## 8.MULTITHREADING CONCURRENCY
-## 9.PROGRAMMAZIONE FUNZIONALE
-## 10.JDBC
+## 4.PACKAGE
+## 5.CLASSI ASTRATTE E INTERFACCE
+## 6.ECCEZIONI
+## 7.GENERIC
+## 8.COLLECTION FRAMEWORK
+## 9.MULTITHREADING CONCURRENCY
+## 10.PROGRAMMAZIONE FUNZIONALE
+## 11.JDBC
 ## VERSIONI DI JAVA
 

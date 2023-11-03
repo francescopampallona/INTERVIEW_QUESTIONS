@@ -12,7 +12,7 @@
 ### Variabili statiche e metodi statici
 ### Cos'è una classe wrapper? Cosa sono il boxing e l'unboxing?
 ### Cos'è l'overloading?
-### Quale falla nella sicurezza(privacy leak) pul verificarsi quando le classi hanno variabili di istanza di tipo classe e come rimediare a ciò(nel metodo get)? 
+### Quale falla nella sicurezza(privacy leak) può verificarsi quando le classi hanno variabili di istanza di tipo classe e come rimediare a ciò(nel metodo get)? 
 ## 2.EREDITARIETA'
 ## 3.POLIMORFISMO
 ## 4.PACKAGE

@@ -14,6 +14,9 @@
 ### Cos'è l'overloading?
 ### Quale falla nella sicurezza(privacy leak) può verificarsi quando le classi hanno variabili di istanza di tipo classe e come rimediare a ciò all'interno del metodo get? 
 ## 2.EREDITARIETA'
+### Cos'è l'ereditarietà (relazioene is-a)?
+### Cos'è l'overriding?
+### Overloading vs overriding
 ## 3.POLIMORFISMO
 ## 4.PACKAGE
 ## 5.CLASSI ASTRATTE E INTERFACCE

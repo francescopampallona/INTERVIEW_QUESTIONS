@@ -25,11 +25,11 @@
 ### Differenza tra interfaccia e classe astratta da Java 8 in poi?
 ## 5.ECCEZIONI
 ## 6.GENERIC
+### Cosa sono i generic in Java?
+### Come viene usato il carattere jolly (?) nei generic?
 ## 7.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)
 ### Cos'è il polimorfismo e quali sono i tre modi per implementarlo in Java?
 ### Cos'è il binding dinamico?
 ## 8.COLLECTION FRAMEWORK
 ## 9.MULTITHREADING CONCURRENCY
-## 10.PROGRAMMAZIONE FUNZIONALE
-## VERSIONI DI JAVA
 

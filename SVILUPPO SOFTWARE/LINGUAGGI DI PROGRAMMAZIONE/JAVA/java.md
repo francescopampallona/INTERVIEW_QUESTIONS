@@ -17,11 +17,17 @@
 ### Cos'è l'ereditarietà (relazioene is-a)?
 ### Cos'è l'overriding?
 ### Overloading vs overriding
-## 3.POLIMORFISMO
-## 4.PACKAGE
-## 5.CLASSI ASTRATTE E INTERFACCE
-## 6.ECCEZIONI
-## 7.GENERIC
+## 3.PACKAGE
+### Cos'è un package in Java?
+## 4.CLASSI ASTRATTE E INTERFACCE
+### Cos'è una classe astratta?
+### Cos'è un'interfaccia?
+### Differenza tra interfaccia e classe astratta da Java 8 in poi?
+## 5.ECCEZIONI
+## 6.GENERIC
+## 7.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)
+### Cos'è il polimorfismo e quali sono i tre modi per implementarlo in Java?
+### Cos'è il binding dinamico?
 ## 8.COLLECTION FRAMEWORK
 ## 9.MULTITHREADING CONCURRENCY
 ## 10.PROGRAMMAZIONE FUNZIONALE

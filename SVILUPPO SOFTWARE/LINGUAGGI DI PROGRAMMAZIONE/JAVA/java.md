@@ -19,12 +19,15 @@
 ### Overloading vs overriding
 ## 3.PACKAGE
 ### Cos'è un package in Java?
+### Descrivere le 4 categorie di visibilità e i modificatori utilizzati(private, nessuno, protected, public)
 ## 4.CLASSI ASTRATTE E INTERFACCE
 ### Cos'è una classe astratta?
 ### Cos'è un'interfaccia?
+### Si può estendere un'interfaccia?
 ### Differenza tra interfaccia e classe astratta da Java 8 in poi?
-## 5.ECCEZIONI
-## 6.GENERIC
+## 5.ECCEZIONI(try, catch, throw, throws, finally)
+### Cos'è il multicatch introdotto in Java 7?
+## 6.GENERIC(introdotto in Java 5)
 ### Cosa sono i generic in Java?
 ### Come viene usato il carattere jolly (?) nei generic?
 ## 7.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)

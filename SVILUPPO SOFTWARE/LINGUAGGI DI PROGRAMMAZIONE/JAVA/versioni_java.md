@@ -24,6 +24,7 @@
 ### Generics
 ### Autoboxing/unboxing: automatic conversions between primitive types (such as int) and primitive wrapper classes (such as Integer)
 ### Enumerations
+### Annotazioni
 ### Varargs
 ### <b>Concurrency utilities</b> in package java.util.concurrent
 

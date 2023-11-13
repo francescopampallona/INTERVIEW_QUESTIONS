@@ -32,6 +32,7 @@
 
 ## Java SE 7 (July 7, 2011)
 ### Libreria di supporto per gli algoritmi di crittografia a curve ellittiche 
+### Multicatch per la gestione delle eccezioni
 ________________________________________________________________________________________________-
 ## Java SE 8 (March 18, 2014)
 ### Nashorn

@@ -10,7 +10,7 @@
 ### Differenza tra variabile di tipo primitivo(value type) e variabile di tipo classe(reference type)?
 ### Il metodo equals per il confronto degli oggetti
 ### Variabili statiche e metodi statici
-### Cos'è una classe wrapper? Cosa sono il boxing e l'unboxing?
+### Cos'è una classe wrapper? Cosa sono il boxing e l'unboxing introdotti in Java 5?
 ### Cos'è l'overloading?
 ### Quale falla nella sicurezza(privacy leak) può verificarsi quando le classi hanno variabili di istanza di tipo classe e come rimediare a ciò all'interno del metodo get? 
 ## 2.EREDITARIETA'
@@ -27,12 +27,15 @@
 ### Differenza tra interfaccia e classe astratta da Java 8 in poi?
 ## 5.ECCEZIONI(try, catch, throw, throws, finally)
 ### Cos'è il multicatch introdotto in Java 7?
-## 6.GENERIC(introdotto in Java 5)
+## 6.ENUMERAZIONI(Introdotte in Java 5)
+## 7.ANNOTAZIONI(Introdotte in Java 5)
+## 8.GENERIC(Introdotti in Java 5)
 ### Cosa sono i generic in Java?
 ### Come viene usato il carattere jolly (?) nei generic?
-## 7.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)
+## 9.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)
 ### Cos'è il polimorfismo e quali sono i tre modi per implementarlo in Java?
 ### Cos'è il binding dinamico?
-## 8.COLLECTION FRAMEWORK
-## 9.MULTITHREADING CONCURRENCY
+## 10.COLLECTION FRAMEWORK
+## 11.PROGRAMMAZIONE MULTITHREADING
+## 12.CONCURRENCY UTILITIES(Introdotte in Java 5)
 

@@ -32,8 +32,8 @@
 ## 8.GENERIC(Introdotti in Java 5)
 ### Cosa sono i generic in Java?
 ### Come viene usato il carattere jolly (?) nei generic?
-## 9.POLIMORFISMO(OVERLOADING, OVERRINDING E GENERIC)
-### Cos'è il polimorfismo e quali sono i tre modi per implementarlo in Java?
+## 9.POLIMORFISMO(OVERLOADING, OVERRIDING/EREDITARIETA' E GENERIC)
+### Cos'è il polimorfismo in Java?
 ### Cos'è il binding dinamico?
 ## 10.COLLECTION FRAMEWORK
 ## 11.PROGRAMMAZIONE MULTITHREADING

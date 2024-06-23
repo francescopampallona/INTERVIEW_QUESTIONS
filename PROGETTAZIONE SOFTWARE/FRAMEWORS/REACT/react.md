@@ -23,4 +23,7 @@ JSX (JavaScript XML) è una sintassi estensione di JavaScript utilizzata princip
 ### Scegliere la struttura degli stati
 ### Condividere gli stati tra i componenti
 
+
 ## SOLUZIONI ALTERNATIVE (https://react.dev/learn/escape-hatches)
+
+## HOOK (https://chatgpt.com/share/31b2ecba-31f9-4ea5-8cb5-74dc184bb4e8)

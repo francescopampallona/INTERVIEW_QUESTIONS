@@ -22,8 +22,16 @@ JSX (JavaScript XML) è una sintassi estensione di JavaScript utilizzata princip
 ### Reagire agli input con lo stato
 ### Scegliere la struttura degli stati
 ### Condividere gli stati tra i componenti
-
+### Preservare e resettare lo stato
+### Estrarre la logica di stato in un reducer (useReducer)
 
 ## SOLUZIONI ALTERNATIVE (https://react.dev/learn/escape-hatches)
+### Riferenziare valori con refs (useRef)
+### Manipolare il DOM con i refs
+### Sincronizzare con gli effetti (useEffect)
+Quando chiami **useEffect**, React pianifica l'esecuzione dell'effetto specificato dopo che il DOM è stato aggiornato. Questo significa che useEffect viene eseguito dopo il rendering del componente, garantendo che il componente sia completamente renderizzato e che tutte le modifiche al DOM siano state completate. Questo è particolarmente utile quando vuoi manipolare il DOM direttamente o quando devi assicurarti che il DOM sia completamente pronto prima di eseguire il codice.
+
+Dopo l'inizializzazione, ogni volta che il componente viene aggiornato, React controlla ogni elemento nell'array di dipendenze (se questo array è presente) per vedere se ha subito modifiche rispetto al render precedente. Se almeno una dipendenza è cambiata, React pianifica nuovamente l'esecuzione dell'effetto subito dopo l'aggiornamento del DOM.
+
 
 ## HOOK (https://chatgpt.com/share/31b2ecba-31f9-4ea5-8cb5-74dc184bb4e8)

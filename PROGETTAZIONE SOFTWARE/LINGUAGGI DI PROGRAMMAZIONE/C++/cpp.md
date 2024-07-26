@@ -30,6 +30,11 @@
 ## EREDITARIETA'  
 
 ## POLIMORFISMO E FUNZIONE VIRTUALE
+## Binding
+Il termine *binding* si riferisce spesso al processo di collegamento di una chiamata a una funzione 
+al codice che deve essere eseguito quando la funzione è invocata.
+Il *binding* è un concetto fondamentale che aiuta a stabilire le connessioni tra diverse parti di un 
+programma durante la scrittura del codice o a runtime.
 ### Early binding
 ### Dynamic binding detto anche runtime binding (virtual functions)
 

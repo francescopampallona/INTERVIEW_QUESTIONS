@@ -15,20 +15,22 @@
 ### Costruttori e distruttori
 ### Costruttori di default
 
-## Costanti
+## COSTANTI
 
-## Namespaces
+## NAMESPACES
 
-## Referenze
+## REFERENZE
 
-## Copy constructors
+## COPY CONSTRUCTORS
 
-## Overloading degli operatori
+## OVERLOADING DEGLI OPERATORI
 
-## Creazione dinamica degli oggetti(operatori new e delete)
+## CREAZIONE DINAMICA DEGLI OPERATORI(operatori new e delete)
 
-## Ereditarietà 
+## EREDITARIETA'  
 
-## Polimorfismo e funzione virtuale
+## POLIMORFISMO E FUNZIONE VIRTUALE
+### Early binding
+### Dynamic binding detto anche runtime binding (virtual functions)
 
-## I template
+## I TEMPLATE

@@ -38,5 +38,6 @@ programma durante la scrittura del codice o a runtime.
 ### Early binding
 ### Dynamic binding detto anche runtime binding (virtual functions)
 ### Funzioni virtuali pure nelle classi astratte
+### Object slicing
 
 ## I TEMPLATE

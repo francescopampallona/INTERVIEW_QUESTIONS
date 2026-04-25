@@ -37,13 +37,6 @@ Cosa succede quando fai persist?
 Differenza tra persist e merge?
 Cos’è il persistence context?
 
-## TRANSAZIONI
-Cos’è una transazione?
-Cosa significa ACID?
-Come gestisci le transazioni in Quarkus?
-Cosa succede in caso di errore?
-Differenza tra commit e rollback?
-
 ## QUERY
 Differenza tra JPQL e SQL?
 Cos’è una query JPQL?

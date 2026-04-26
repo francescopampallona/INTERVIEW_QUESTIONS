@@ -3,9 +3,7 @@
 ## FONDAMENTA DI QUARKUS
 Cos’è Quarkus e in quali contesti lo useresti?
 Qual è la differenza principale tra Quarkus e Spring Boot?
-Perché Quarkus è considerato cloud-native?
 Cosa significa che Quarkus è ottimizzato per container?
-Cosa si intende per build-time processing in Quarkus?
 Perché Quarkus ha tempi di startup più rapidi?
 Quando NON useresti Quarkus?
 
@@ -75,8 +73,4 @@ Cos’è GraalVM?
 Differenza tra JVM mode e native mode?
 Quando useresti native image?
 Vantaggi e svantaggi della native compilation?
-
-## CONFRONTO CON ALTRE TECNOLOGIE
-Differenza tra Quarkus e Spring Boot?
-Passare da Spring a Quarkus è difficile?
-Quali concetti sono riutilizzabili?
+ 

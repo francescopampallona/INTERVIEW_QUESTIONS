@@ -1,9 +1,0 @@
-# SPRING CORE
-
-## DEPENDENCY INJECTION
-
-## INVERSION OF CONTROL (IoC)
-
-## BEAN FACTORY
-
-## APPLICATION CONTEXT(interfaccia che estende BeanFactory)

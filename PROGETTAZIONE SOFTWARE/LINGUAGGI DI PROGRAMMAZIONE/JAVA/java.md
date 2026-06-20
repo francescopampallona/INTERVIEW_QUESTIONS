@@ -383,3 +383,13 @@
 ### Come synchronized garantisce la visibilità?
 ### Perché possono verificarsi race condition anche su variabili primitive?
 
+---
+
+## 36. DESIGN PATTERNS
+### Cos'è un Design Pattern?
+### Singleton
+### Factory Method
+### Builder
+### Strategy
+### Observer
+### Decorator

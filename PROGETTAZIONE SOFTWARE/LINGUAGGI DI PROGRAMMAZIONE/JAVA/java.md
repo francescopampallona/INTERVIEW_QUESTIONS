@@ -284,6 +284,12 @@
 ### Differenza tra map() e filter()
 ### Cos'è Optional
 ### Quando usare Optional e quando evitarlo
+### Differenza tra map() e flatMap()
+### Cos'è reduce()
+### Cos'è collect()
+### Cos'è Collectors.groupingBy()
+### Differenza tra stream() e parallelStream()
+### Quando evitare parallelStream()?
 
 ---
 

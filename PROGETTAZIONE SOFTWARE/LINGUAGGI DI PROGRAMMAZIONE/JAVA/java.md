@@ -343,3 +343,26 @@
 ### Differenza tra HashMap e TreeMap
 ### Differenza tra Runnable e Callable
 ### Differenza tra start() e run()
+
+---
+
+## 33. REFLECTION
+### Cos'è Reflection?
+### Come ottenere una Class?
+### Come leggere campi e metodi a runtime?
+### Come invocare un metodo tramite Reflection?
+### Vantaggi e svantaggi della Reflection
+### Come Spring usa Reflection?
+
+---
+
+## 34. HASHMAP APPROFONDITA
+### Cos'è un bucket?
+### Cos'è una collisione?
+### Cos'è il load factor?
+### Quando avviene il resize?
+### Cos'è il rehashing?
+### Complessità O(1) e quando degrada
+### Differenza HashMap vs Hashtable
+### Differenza HashMap vs ConcurrentHashMap
+

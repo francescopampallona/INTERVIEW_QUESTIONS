@@ -272,6 +272,12 @@
 ### Differenza tra HashMap e ConcurrentHashMap
 ### Atomic variables (es. AtomicInteger)
 ### Quando usare classi atomiche invece di synchronized
+### thenApply()
+### thenCompose()
+### thenCombine()
+### exceptionally()
+### allOf()
+### anyOf()
 
 ---
 
@@ -365,4 +371,15 @@
 ### Complessità O(1) e quando degrada
 ### Differenza HashMap vs Hashtable
 ### Differenza HashMap vs ConcurrentHashMap
+
+---
+
+## 35. JAVA MEMORY MODEL
+### Cos'è il Java Memory Model (JMM)?
+### Differenza tra visibilità e atomicità
+### Cosa garantisce volatile?
+### volatile garantisce atomicità?
+### Cos'è happens-before?
+### Come synchronized garantisce la visibilità?
+### Perché possono verificarsi race condition anche su variabili primitive?
 

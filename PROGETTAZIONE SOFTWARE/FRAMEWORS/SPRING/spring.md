@@ -80,6 +80,8 @@ Cosa succede in caso di errore?
 Cos’è il rollback?
 Differenza tra propagation REQUIRED e REQUIRES_NEW?
 Cos’è l’isolation level?
+Come implementi la paginazione in Spring Data JPA?
+Come costruisci una ricerca con filtri opzionali?
 
 ---
 
